@@ -1,4 +1,4 @@
-# Zdzs-client
+# zdzs-client
  
 Do not use commercially
  
