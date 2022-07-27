@@ -1,21 +1,19 @@
-# 正点紫砂 c# 版
-
- > 使用c# winform开发，耗时两天
+# Zdzs-client
  
- 请勿商用
+Do not use commercially
  
-* 运行截图
+* screenshot of operation
 
 ![](https://github.com/Henry-S0/zdzs-client/blob/master/res/all.jpg)
 
-    > 启动
+    > run
  
 ![](https://github.com/Henry-S0/zdzs-client/blob/master/res/%E5%90%AF%E5%8A%A8%E5%9B%BE.jpg)
 
-    > 首页
+    > Home page
     
  ![](https://github.com/Henry-S0/zdzs-client/blob/master/res/%E9%A6%96%E9%A1%B5.jpg)
  
-    > 详情页面
+    > Detail page
     
 ![](https://github.com/Henry-S0/zdzs-client/blob/master/res/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85.jpg)
